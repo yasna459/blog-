@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2028"
 owner_name: Yasna Ahmadi
 github_username: nighthawkcoders
-github_repo: "student_2028" 
-baseurl: "/student_2028"
+github_repo: "blog-" 
+baseurl: "blog-"
 future: true
 remote_theme: jekyll/minima
 minima:
