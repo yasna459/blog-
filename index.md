@@ -5,4 +5,4 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+I am Yasna Ahmadi, a freshman at Del Norte High School. I love to bake, cook, play tennis, and draw. My favorite color is lavender.
